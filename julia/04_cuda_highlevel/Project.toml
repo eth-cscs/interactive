@@ -1,0 +1,7 @@
+[deps]
+AbstractFFTs = "621f4979-c628-5d54-868e-fcf4e3e8185c"
+CUDA = "052768ef-5323-5732-b1bb-66c8b64840ba"
+FFTW = "7a1cc6ca-52ef-59f5-83cd-3a7055c09341"
+JSServe = "824d6782-a2ef-11e9-3a09-e5662e0c26f9"
+LoopVectorization = "bdcacae8-1622-11e9-2a5c-532679323890"
+WGLMakie = "276b4fcb-3e11-5398-bf8b-a0c2d153d008"
