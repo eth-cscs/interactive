@@ -1,0 +1,8 @@
+[deps]
+BLASBenchmarksCPU = "5fdc822c-4560-4d20-af7e-e5ee461714d5"
+CUDA = "052768ef-5323-5732-b1bb-66c8b64840ba"
+LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
+LoopVectorization = "bdcacae8-1622-11e9-2a5c-532679323890"
+MultiFloats = "bdf0d083-296b-4888-a5b6-7498122e68a5"
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+UnicodePlots = "b8865327-cd53-5732-bb35-84acbb429228"

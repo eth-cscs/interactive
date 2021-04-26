@@ -1,0 +1,11 @@
+[deps]
+ArnoldiMethod = "ec485272-7323-5ecc-a04f-4719b315124d"
+BenchmarkTools = "6e4b80f9-dd63-53aa-95a3-0cdb28fa8baf"
+Distributions = "31c24e10-a181-5473-b8eb-7969acd0382f"
+LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
+MultiFloats = "bdf0d083-296b-4888-a5b6-7498122e68a5"
+Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
+SparseArrays = "2f01184e-e22b-5df5-ae63-d93ebab69eaf"
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+UnicodePlots = "b8865327-cd53-5732-bb35-84acbb429228"
+VectorizationBase = "3d5dd08c-fd9d-11e8-17fa-ed2836048c2f"
